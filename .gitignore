@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+
+# Tex files
+*.synctex.gz
+*.fls
+*.bbl
+*.blg
+*.fff
+*.log
+*.lof
+*.aux
+*.pyc
+*.out
+*~
