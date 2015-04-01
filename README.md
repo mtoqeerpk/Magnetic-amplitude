@@ -62,9 +62,4 @@ http://nbviewer.ipython.org/github/birocoles/Magnetic-amplitude/tree/master/note
 Navigate to the folder containing the notebook you want to view and click on
 the `.ipynb` file. You won't be able to run the code in this online version.
 
-The method proposed in this paper is implemented in Fatiando a Terra version
-0.3. You can
-[view the code online](https://github.com/fatiando/fatiando/blob/v0.3/fatiando/gravmag/magdir.py#L29)
-or download a copy from the official website.
-
 
