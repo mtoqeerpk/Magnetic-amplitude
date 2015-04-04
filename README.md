@@ -1,15 +1,16 @@
 # Amplitude of the anomalous magnetic field 
 
-[Vanderlei C. Oliveira Jr.](http://fatiando.org/people/oliveira-jr/)<sup>1</sup>
+[Vanderlei C. Oliveira Jr.](http://fatiando.org/people/oliveira-jr/)
 
-<sup>1</sup>[*Observatório Nacional*](http://www.on.br/)
+[*Observatório Nacional*](http://www.on.br/)
 
 ## Description
 
 Magnetic sources produce a magnetic induction that disturbs the
 local-geomagnetic field on the Earth's surface. The amplitude of 
 this disturbing magnetic induction has been called **amplitude of
-the anomalous magnetic field**. According to recent published works
+the anomalous magnetic field**. According to recent 
+published works
 (Shearer and Li, 2004; Li et al., 2010; Li and Li, 2014; 
 Leão-Santos et al., 2015), the
 amplitude of the anomalous magnetic field is weakly dependent on the
